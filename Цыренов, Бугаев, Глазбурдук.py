@@ -30,5 +30,7 @@ def cramer(A,b):
                                 x = []
                                 for curr_det in dets:
                                     x.append(float(curr_det) / D)
-                                    return x
-                 
+                                    return 
+                                
+                                hlloe
+                                
